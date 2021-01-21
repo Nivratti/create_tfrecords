@@ -1,4 +1,4 @@
-# create_tfrecords
+# create_tfrecords from data available inside single base dir (If no train-val spillted data available in folder)
 A simpler way of preparing large-scale image dataset by generalizing functions from TensorFlow-slim.
 
 ### Requirements
